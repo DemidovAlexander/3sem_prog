@@ -1,0 +1,34 @@
+﻿Построение начато 01.11.2013 15:44:06.
+     1>Проект "C:\study\3 семестр\programming\Problem3\ахо-корасик\ахо-корасик\ахо-корасик.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\".
+       InitializeBuildStatus:
+         Создание "Release\ахо-корасик.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(153): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>main.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(163): warning C4018: <=: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\ахо-корасик.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ахо-корасик.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\ахо-корасик.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\ахо-корасик.lib" /MACHINE:X86 Release\main.obj
+         Создание кода
+         Создание кода завершено
+         ахо-корасик.vcxproj -> C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\ахо-корасик.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\3 семестр\programming\Problem3\ахо-корасик\Release\ахо-корасик.exe;#1" /manifest "Release\ахо-корасик.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\ахо-корасик.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ахо-корасик.lastbuildstate".
+     1>Построение проекта "C:\study\3 семестр\programming\Problem3\ахо-корасик\ахо-корасик\ахо-корасик.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.01

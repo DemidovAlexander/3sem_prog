@@ -1,0 +1,21 @@
+﻿Построение начато 25.10.2013 17:19:33.
+     1>Проект "C:\study\3 семестр\programming\Problem2\problem2\problem2\problem2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\problem2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\problem2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.lib" /MACHINE:X86 Debug\main.obj
+         LINK : не найден или не выполнена сборка C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.exe при последней инкрементной компоновке; выполняется полная компоновка
+         problem2.vcxproj -> C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\3 семестр\programming\Problem2\problem2\Debug\problem2.exe;#1" /manifest Debug\problem2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\problem2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\problem2.lastbuildstate".
+     1>Построение проекта "C:\study\3 семестр\programming\Problem2\problem2\problem2\problem2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.13

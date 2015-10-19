@@ -1,0 +1,17 @@
+﻿Построение начато 25.10.2013 16:26:41.
+     1>Проект "C:\study\3 семестр\programming\palindrom2\palindrome\palindrome.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\palindrome.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         palindrome.vcxproj -> C:\study\3 семестр\programming\palindrom2\Debug\palindrome.exe
+       FinalizeBuildStatus:
+         Файл "Debug\palindrome.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\palindrome.lastbuildstate".
+     1>Построение проекта "C:\study\3 семестр\programming\palindrom2\palindrome\palindrome.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.08
